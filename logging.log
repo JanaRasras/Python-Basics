@@ -1,0 +1,10 @@
+INFO 2020-07-09 13:24:38,931 -quadratic equation a1, 0, -4
+DEBUG 2020-07-09 13:24:38,931 -# compute the equation
+DEBUG 2020-07-09 13:24:38,931 -# comute the 2 roots
+INFO 2020-07-09 13:25:22,906 -quadratic equation a1, 0, -1
+DEBUG 2020-07-09 13:25:22,907 -# compute the equation
+DEBUG 2020-07-09 13:25:22,907 -# comute the 2 roots
+INFO 2020-07-09 13:26:20,785 -quadratic equation a1, 0, -1
+DEBUG 2020-07-09 13:26:20,785 -# compute the equation
+DEBUG 2020-07-09 13:26:20,786 -# comute the 2 roots
+DEBUG 2020-07-09 13:26:20,786 -# return the roots
